@@ -27,19 +27,11 @@ This project suggests movies based on a given input movie using a **content-base
 🔹 **Python** – Core programming language  
 🔹 **Streamlit** – Interactive UI framework  
 🔹 **Pandas** – Data manipulation  
+🔹 **NLTK & NLP Techniques** – Stemming, tokenization, text-based similarity  
 🔹 **Scikit-learn** – Machine Learning (Cosine Similarity)  
-🔹 **Pickle** – Model storage  
+🔹 **Pickle** – Model Storage  
 🔹 **OMDb API** – Fetching movie posters  
 
----
-
-## 📥 **Installation & Setup**  
-
-### **1️⃣ Clone the Repository**
-```bash
-git clone https://github.com/Skantoo/Movie_Recommendation_System.git
-cd Movie_Recommendation_System
-```
 ---
 ## 📊 How It Works
 
