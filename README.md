@@ -8,7 +8,7 @@ This project suggests movies based on a given input movie using a **content-base
 
 
 ## 🎥 **Live Demo**  
-👉 _[Deploy on Streamlit Share (If Hosted)](https://movie-recommendation-system-nsbzkkkyb5qyc2ych8qcdy.streamlit.app/)_
+👉 _[Click Here](https://movie-recommendation-system-nsbzkkkyb5qyc2ych8qcdy.streamlit.app/)_
 
 
 ---
